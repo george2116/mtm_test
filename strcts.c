@@ -11,7 +11,7 @@ double y;
 int main(){
 point*p=malloc(sizeof(*p));
 if(!p){
-printf("Failed");
+printf("Faiffled");
 return 0;
 }
 p->x=1;
