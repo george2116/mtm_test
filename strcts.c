@@ -11,7 +11,7 @@ double y;
 int main(){
 point*p=malloc(sizeof(*p));
 if(!p){
-printf("Faifflecx
+printf("Faifflxcecx
 ");
 return 0;
 }
