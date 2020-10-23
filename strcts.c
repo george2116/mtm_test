@@ -11,7 +11,8 @@ double y;
 int main(){
 point*p=malloc(sizeof(*p));
 if(!p){
-printf("Faiffled");
+printf("Faifflecx
+");
 return 0;
 }
 p->x=1;
